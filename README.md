@@ -3,3 +3,6 @@ Repository for neural networks which retain memory from sequential data like RNN
 
 ### Simple RNN
 Implemented a simple RNN neural network with forward and backward pass on time series weather data. 
+
+### Simple LSTM
+Implemented a simple LSTM neural network with on Microsoft Stock Price Prediction Dataset from kaggle 
