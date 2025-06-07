@@ -9,6 +9,11 @@ Implemented a simple LSTM neural network with on Microsoft Stock Price Predictio
 
 ### Bi-directional RNN
 Implemented a bidirectional RNN neural network on IMDB movie review dataset from kaggle
+<br><br>
+Dataset:   [https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
 
 ### Bi-directional LSTM
 Implemented a bidirectional LSTM neural network on IMDB movie review dataset with 75% validation accuracy
+
+### Gated Recurrent Unit (GRU)
+Implemented a GRU neural netwrok for Date-Temperature dataset for predicting temperature for thee newt day based on past records
