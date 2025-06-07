@@ -9,3 +9,6 @@ Implemented a simple LSTM neural network with on Microsoft Stock Price Predictio
 
 ### Bi-directional RNN
 Implemented a bidirectional RNN neural network on IMDB movie review dataset from kaggle
+
+### Bi-directional LSTM
+Implemented a bidirectional LSTM neural network on IMDB movie review dataset with 75% validation accuracy
