@@ -8,4 +8,4 @@ Implemented a simple RNN neural network with forward and backward pass on time s
 Implemented a simple LSTM neural network with on Microsoft Stock Price Prediction Dataset from kaggle 
 
 ### Bi-directional RNN
-Implemented a bidirectional RNN neural network on IMBD movie review dataset from kaggle
+Implemented a bidirectional RNN neural network on IMDB movie review dataset from kaggle
